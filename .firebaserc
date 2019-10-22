@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "juststart-app": {
+      "hosting": {
+        "gameTicTacToe": [
+          "juststart-app"
+        ]
+      }
+    }
+  }
+}
